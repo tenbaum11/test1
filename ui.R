@@ -1,4 +1,5 @@
 # ui.R
+library(plotly)
 dashboardPage(
   dashboardHeader(title = "cran.rstudio.com"),
   dashboardSidebar(
